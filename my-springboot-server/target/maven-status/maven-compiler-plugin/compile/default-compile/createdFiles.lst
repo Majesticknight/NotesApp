@@ -1,0 +1,6 @@
+com\sohail\my_springboot_server\WebConfig.class
+com\sohail\my_springboot_server\NoteRepository.class
+com\sohail\my_springboot_server\MySpringbootServerApplication.class
+com\sohail\my_springboot_server\NoteController.class
+com\sohail\my_springboot_server\Note.class
+com\sohail\my_springboot_server\NoteRequest.class
